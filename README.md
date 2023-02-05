@@ -6,7 +6,7 @@
 
 ##### I am enrolled in the Fast Track Combined Degree Program, where I am earning a B.S. in Business Economics and an M.S. in Applied Econometrics and Policy Analysis. My Expected graduation date is December 2023.
 
-![This is an image](https://media.giphy.com/media/116wwYf3ajIvrG/giphy.gif)
+![This is an image](https://tenor.com/vLW4.gif)
 
  🔭 I am extremely passionate about Research and Economics, but my hobbies and interests extend far beyond any reasonable association. 
  
