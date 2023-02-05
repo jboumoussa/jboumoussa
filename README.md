@@ -1,13 +1,19 @@
-### Hi there 👋
+# :moon: Greetings & Salutations :black_cat:
 
-<!--
-**jboumoussa/jboumoussa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Please bear with me as I improve my skills and proficiency with coding programs.*
 
-Here are some ideas to get you started:
+### My name is Joseph Boumoussa, and I am currently a student at Pace University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+##### I am enrolled in the Fast Track Combined Degree Program, where I am earning a B.S. in Business Economics and an M.S. in Applied Econometrics and Policy Analysis. My Expected graduation date is December 2023.
+
+
+
+
+ 🔭 I am extremely passionate about Research and Economics, but my hobbies and interests extend far beyond any reasonable association. 
+ 
+🌱 I’m currently learning about cosmetic chemistry through independant study.
+
+:paint: 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
