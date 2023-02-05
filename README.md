@@ -5,9 +5,7 @@
 ### My name is Joseph Boumoussa, and I am currently a student at Pace University.
 
 ##### I am enrolled in the Fast Track Combined Degree Program, where I am earning a B.S. in Business Economics and an M.S. in Applied Econometrics and Policy Analysis. My Expected graduation date is December 2023.
-
-![This is an image](https://tenor.com/vLW4.gif)
-
+![](https://tenor.com/vLW4.gif)
  🔭 I am extremely passionate about Research and Economics, but my hobbies and interests extend far beyond any reasonable association. 
  
 🌱 I’m currently learning about cosmetic chemistry through independant study. I am particularly interested in dismantling the "appeal to nature" fallacy, and fostering a comprehensive understading of the fuctions of the skin. 
